@@ -34,6 +34,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **PROGRAM**
 
 /* 
+
 Developed by:Hemakesh G
 RegisterNumber: 212223040064
 
